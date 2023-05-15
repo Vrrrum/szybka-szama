@@ -1,0 +1,1 @@
+# szybka-szama
