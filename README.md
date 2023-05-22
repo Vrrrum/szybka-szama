@@ -16,24 +16,13 @@ Aplikacja Szybka szama to platforma do zamawiania jedzenia, która umożliwia u�
 - Różnorodność dań do wyboru
 
 ## Wymagania systemowe
-
-- Node.js w wersji 10 lub nowszej
-- Baza danych MySQL
 - Przeglądarka internetowa z włączoną obsługą JavaScript
 
 ## Instalacja
+TBD
 
-1. Sklonuj repozytorium na swoje urządzenie:
+## Specyfikacja
 
-```bash
-git clone https://github.com/twoja-nazwa-uzytkownika/storz.git
-
-````
-2. Zainstaluj biblioteki 
-
-```bash
-npm install / yarn / pnpm install
-```
-
+https://docs.google.com/document/d/1leKsiAFoEqqSoBuFQ-jD4u1dZcyqYBh5/edit?usp=sharing&ouid=108820201469184663417&rtpof=true&sd=true
 ## Autorzy
 Autorami aplikacji są Jakub Markiewicz, Maks Sędkiewicz, Nikita Vinohradov i Kamil Wojtek
