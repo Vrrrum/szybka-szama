@@ -1,7 +1,9 @@
 body {
-  padding: 5%;
+  font-family: "Inter", sans-serif;
 }
-
+main {
+  padding: 0 5%;
+}
 .banner {
   background-image: url("../img/pizza.webp");
   background-size: cover;

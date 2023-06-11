@@ -5,13 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Szybka szama - Produkt</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../css/style.css">
+    <?php require_once "head.php"?>
     <link rel="stylesheet" href="../css/product.css">
 </head>
 <body>
+    <nav>
+        <?php require_once "menu.php"?>
+    </nav>
     <main>
         <div class="banner"></div>
 
