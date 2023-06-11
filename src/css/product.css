@@ -12,10 +12,10 @@ body {
   border-radius: 40px;
 }
 .cal-bar {
-  background-color: grey;
+  background-color: #d9d9d9;
 
   height: 50px;
-  width: 700px;
+  width: 1000px;
   border-radius: 40px;
 }
 .cal-bar div {
