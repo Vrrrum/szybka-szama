@@ -1,0 +1,48 @@
+body {
+  padding: 5%;
+}
+
+.banner {
+  background-image: url("../img/pizza.webp");
+  background-size: cover;
+  background-position: center;
+
+  height: 600px;
+  margin: 0 auto;
+  border-radius: 40px;
+}
+.cal-bar {
+  background-color: grey;
+
+  height: 50px;
+  width: 700px;
+  border-radius: 40px;
+}
+.cal-bar div {
+  background-color: #f07f00;
+  border-radius: 40px;
+  height: 50px;
+}
+
+p {
+  font-size: 40px;
+  margin: 2px;
+}
+h1 {
+  font-size: 65px;
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+h2 {
+  font-size: 65px;
+  margin-bottom: 10px;
+  /* font-weight: bold; */
+}
+h3 {
+  font-size: 45px;
+  margin: 10px 0;
+}
+ul {
+  list-style-type: none;
+  font-size: 30px;
+}
