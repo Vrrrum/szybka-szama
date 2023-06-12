@@ -5,9 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>123</title>
-    <link rel="stylesheet" href="create.css">
+    <link rel="stylesheet" href="../css/create.css">
+    <?php require_once "head.php" ?>
 </head>
 <body>
+    <nav>
+        <?php require_once "menu.php" ?>
+    </nav>
     <section id="login">
         <h1>Stwórz konto</h1>
         <form action="login.html">
@@ -23,14 +27,16 @@
 </html>
 
 <?php
+require_once "conn.php";
+
 if(isset($_POST['submit'])){
   $usereg=$_POST['user'];
   $passreg=$_POST['password'];
   $emailreg=$_POST['mail'];
-  $telreg=$_POST['telefon']
+  $telreg=$_POST['telefon'];
 }
 
-$query='SELECT * FROM uzytkownicy';
+$query='SELECT * FROM users';
 $result = mysqli_query($conn, $query);
 $wynik=mysqli_fetch_assoc($result);
 
