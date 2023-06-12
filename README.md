@@ -31,4 +31,4 @@ TBD
 
 https://docs.google.com/document/d/1leKsiAFoEqqSoBuFQ-jD4u1dZcyqYBh5/edit?usp=sharing&ouid=108820201469184663417&rtpof=true&sd=true
 ## Autorzy
-Autorami aplikacji są Jakub Markiewicz, Maks Sędkiewicz, Nikita Vinohradov i Kamil Wojtek
+Autorami aplikacji są Jakub Markiewicz, Maks Sędkiewicz, Mykyta Vinohradov i Kamil Wojtek
