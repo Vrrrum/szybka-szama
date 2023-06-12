@@ -22,6 +22,9 @@ Aplikacja Szybka szama to platforma do zamawiania jedzenia, która umożliwia u�
 - Przeglądarka internetowa z włączoną obsługą JavaScript
 
 ## Instalacja
+- pobierz repozytorium
+- programem np: 7zip wypakuj zipa
+- stronę główną otwórz w dowolnej przeglądarce obsługującej java scipt
 TBD
 
 ## Specyfikacja
