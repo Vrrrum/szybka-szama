@@ -5,7 +5,7 @@ main {
   padding: 0 5%;
 }
 .banner {
-  background-image: url("../img/pizza.webp");
+  /* background-image: url("../img/pizza.webp"); */
   background-size: cover;
   background-position: center;
 

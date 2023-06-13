@@ -4,7 +4,7 @@
     $sql = "SELECT dish_id, dish_name, caloric_values, price, img FROM dishes";
     $result = mysqli_query($conn, $sql);
     if(!$result) {
-        die("Error mysql: ".mysqli_error($con));
+        die("Error mysql: ".mysqli_error($conn));
     }
     $dishes_r = array();
     while($row = mysqli_fetch_assoc($result)) {
