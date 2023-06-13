@@ -10,8 +10,6 @@
     while($row = mysqli_fetch_assoc($result)) {
         array_push($dishes_r, $row);
     }
-    print_r($dishes_r);
-    echo "łąka";
 ?>
 
 <!DOCTYPE html>
