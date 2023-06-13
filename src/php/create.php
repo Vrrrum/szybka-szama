@@ -38,4 +38,4 @@ if(isset($_POST['submit'])){
 
 $query='SELECT * FROM users';
 $result = mysqli_query($conn, $query);
-$wynik=mysqli_fetch_assoc($result);
+$wynik = mysqli_fetch_assoc($result);

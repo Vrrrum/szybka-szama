@@ -1,0 +1,28 @@
+main {
+  display: flex;
+  padding: 50px 5%;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+main > a > div {
+  height: 500px;
+  width: 400px;
+  /* background-image: url("../img/pizza.webp"); */
+  background-position: center;
+  background-size: cover;
+  border-radius: 40px;
+}
+
+a {
+  text-decoration: none;
+}
+main h3,
+p {
+  color: white;
+  margin: 5px;
+  font-size: 30px;
+}
+.desc {
+  position: relative;
+  top: 350px;
+}

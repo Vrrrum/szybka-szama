@@ -2,7 +2,7 @@
     <li><a href="">Szybka Szama</a></li>
     <ul>
         <li><a href="index.php">Strona główna</a></li>
-        <li><a href="">Menu</a></li>
+        <li><a href="dishList.php">Menu</a></li>
         <li><a href="">O nas</a></li>
         <li><a href="">Kontakt</a></li>
     </ul>
