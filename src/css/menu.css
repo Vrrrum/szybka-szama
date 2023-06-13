@@ -19,7 +19,9 @@ nav > ul > li:first-child::before {
   width: 72px;
   height: 72px;
   border-radius: 50%;
-  background-color: #d9d9d9;
+  background-image: url("https://cdn-icons-png.flaticon.com/512/2819/2819194.png");
+  background-size: contain;
+  background-position: center;
   margin-right: 5px;
   vertical-align: middle;
 }

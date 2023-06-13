@@ -7,6 +7,7 @@
     <title>Szybka szama - Produkt</title>
     <?php require_once "head.php"?>
     <link rel="stylesheet" href="../css/product.css">
+    <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/2819/2819194.png">
 </head>
 <body>
     <nav>

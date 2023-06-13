@@ -47,8 +47,5 @@
     flex-direction: row;
     width: 80%;
     justify-content: space-around;
-}#login>a p:nth-child(1){
-    color: black;
-}#login>a p:nth-child(2){
     color: orange;
 }

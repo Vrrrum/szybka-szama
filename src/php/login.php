@@ -19,7 +19,7 @@
             <input type="password" name="password" placeholder="Hasło">
             <input type="submit" name="submit" value="Zaloguj">
         </form>
-        <a href="create.html"><p>Nie masz konta?</p> <p>Stwórz je!</p></a>
+        <a href="create.php"><p>Nie masz konta?</p> <p>Stwórz je!</p></a>
     </section>
 </body>
 </html>
